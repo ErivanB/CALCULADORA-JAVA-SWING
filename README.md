@@ -1,7 +1,5 @@
 Calculadora em Java com Swing
-https://img.shields.io/badge/Java-17%252B-blue
-https://img.shields.io/badge/GUI-Swing-orange
-https://img.shields.io/badge/Testing-JUnit5-green
+
 
 Este projeto é uma calculadora simples desenvolvida em Java utilizando a biblioteca Swing para a interface gráfica, com testes unitários implementados usando JUnit.
 
